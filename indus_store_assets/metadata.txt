@@ -1,0 +1,26 @@
+# GoodRemi - Indus Appstore Metadata
+
+Please review this draft and let me know if you would like to make any changes!
+
+## App Title (Max 50 characters)
+GoodRemi: Warranty & Receipt Tracker
+
+## Short Description (Max 80 characters)
+Organize receipts, track warranties, and never miss an expiration date again.
+
+## Full Description (Max 4000 characters)
+Welcome to GoodRemi, the elegantly simple app designed to bring order to your life. GoodRemi takes the chaos out of managing your warranties, receipts, and important purchase documents with a beautifully crafted, warm, and minimalist interface.
+
+**Why GoodRemi?**
+We believe that managing your important purchases shouldn't feel like a chore. That's why we've built GoodRemi with a "Sahara" aesthetic—luxurious warmth meeting disciplined minimalism. It’s not just a tool; it’s a calm, organized space for your financial peace of mind.
+
+**Key Features:**
+• **Smart Warranty Tracking:** Never let a warranty expire unnoticed. GoodRemi categorizes your items and gives you timely alerts before warranties lapse.
+• **Secure Receipt Vault:** Digitize and store all your receipts in one secure place. Say goodbye to faded paper and overstuffed shoeboxes.
+• **Elegant Dashboard:** A clutter-free, ad-free interface that puts your most urgent items first. See exactly what you need at a glance.
+• **Premium Subscription Plans:** Upgrade to premium for unlimited storage and advanced tracking features, powered seamlessly by our integrated secure payment gateway.
+
+**A Design That Respects Your Eyes**
+Built with a carefully curated "Sahara" color palette, GoodRemi uses warm linens, earthy charcoals, and burnt sienna accents instead of harsh whites and bright neon colors. It’s designed to be comfortable to use anytime, anywhere.
+
+Join thousands of organized individuals. Download GoodRemi today and take control of your purchases with elegance and ease.
